@@ -10,4 +10,42 @@
 
 /* header */
 
+header{
+    width:100%;
+    height:100px;
+    background-color:#F8F8F8;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
 
+.logo1{
+    font-size:42px;
+    font-weight:bold;
+    color:darkblue;
+    text-shadow: 3px 3px 3px  #ffccff;
+    display:flex;
+    align-items:center;
+    width:30%;
+}
+        
+ .logo1 img{
+    margin-left:30px;
+    margin-right:20px;
+    width:22%;
+ }
+
+ .phone, .e-mail{
+    font-weight: bold;
+ }
+
+ .phone img{margin-right:5px;}
+
+ .logo2{
+    width:20%;
+ }
+ .logo2 img{
+    margin-left:30px;
+    margin-right:20px;
+    width:35%;
+ }
