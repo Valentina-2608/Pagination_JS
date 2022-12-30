@@ -40,5 +40,47 @@ myTours = [
         "caption": "Tower of London Tour",
         "duration":"1 day",
         "information": "Tower of London, byname the Tower, royal fortress and London landmark. Its buildings and grounds served historically as a royal palace, a political prison, an arsenal and a public records office. It is located on the north bank of the River Thames."
+    },
+    {
+        "id":7,
+        "image":"img/buckingham.jpg",
+        "caption": "Buckingham Palace Tour",
+        "duration":"1 day",
+        "information": "Buckingham Palace is the closest many of us will ever get to a castle. Luckily, on our tours you’re guaranteed entrance to explore the State Rooms and spend some time in the Queen’s home. For an introduction to British pomp and ceremony, you need to start your London tour here."
+    },
+    {
+        "id":8,
+        "image":"img/wroclaw.jpg",
+        "caption": "Wroclaw Landmarks",
+        "duration":"1 day",
+        "information": "Discover Wrocław's Old Town beauty with our travel agency.Here you’ll find more bridges than anywhere in Central Europe, a market square second only to Kraków’s in size, an entire Cathedral Island of awe-inspiring architecture."
+    },
+    {
+        "id":9,
+        "image":"img/barselona.jpg",
+        "caption": "Barcelona Tour",
+        "duration":"1 day",
+        "information": "Barcelona combines sun, sea, and sand with architecture and nightlife that you just can’t miss. One of the great lifestyle cities of the world, you’ll step into a Surrealist dream when you discover the art and sculpture waiting for you in the Catalan capital."
+    },
+    {
+        "id":10,
+        "image":"img/florence.jpg",
+        "caption": "Florence Tour",
+        "duration":"1 day",
+        "information": "Florence has produced some of the world's most splendid works of art, sculpture and architecture, not to mention the minds that created them. Embark on a journey to discover the places and personalities that defined this rebirth."
+    },
+    {
+        "id":11,
+        "image":"img/milan.jpg",
+        "caption": "Milan Tour",
+        "duration":"1 day",
+        "information": " Milan’s buzzing personality pumps through the city day and night. A global fashion capital, home to La Scala opera house, and with a proud literary tradition, Milan is a must-see destination when you visit Italy."
+    },
+    {
+        "id":12,
+        "image":"img/warsaw.jpg",
+        "caption": "Warsaw Landmarks",
+        "duration":"1 day",
+        "information": "Discover the most interesting elements of the Old Town during 1 day trip of highlights  Feel the atmosphere of this vibrant and bustling capital city of the new central Europe!"
     }
 ]
