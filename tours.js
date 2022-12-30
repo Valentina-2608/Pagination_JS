@@ -4,7 +4,7 @@ myTours = [
         "image":"img/krakow.jpg",
         "caption": "Kracow Landmarks",
         "duration":"1 day",
-        "information": "Kracow the ancient seat of Polish kings and intelligentsia, a city of legend and myth that evokes the most fanciful of images, from dragons under the catacombs of Wawel, to Tartar hordes repelled at the gates, to pigeon-knights waiting for their king to return. Kraków’s postcard-perfect Old Town comes complete with Europe’s largest medieval market square and even fairy-tale Wawel Castle overlooking the river. Discover its main landmarks during one day full of beauty."
+        "information": "Kracow the ancient seat of Polish kings and intelligentsia, a city of legend and myth that evokes the most fanciful of images, from dragons under the catacombs of Wawel, to Tartar hordes repelled at the gates, to pigeon-knights waiting for their king to return."
     },
     {
         "id":2,
@@ -18,7 +18,7 @@ myTours = [
         "image":"img/venice.jpg",
         "caption": "Venice Tour",
         "duration":"1 day",
-        "information": "rom the iconic Doge's Palace to the stunning St. Mark Basilica our expert guides, we will make your vacation in Venice one to remember."
+        "information": "From the iconic Doge's Palace to the stunning St. Mark Basilica our expert guides, we will make your vacation in Venice one to remember."
     },
     {
         "id":4,
@@ -32,7 +32,7 @@ myTours = [
         "image":"img/louvre.jpg",
         "caption": "Louvre Tour",
         "duration":"1 day",
-        "information": "Discover the world's most visited art museum and see why this vast collection spanning the Ancient Egyptian to the Neoclassical attracts so many visitors each year. No other museum sums up humankind's artistic endeavor more, but the Mona Lisa and Venus de Milo are only the beginning of what you'll see on our Louvre tours."
+        "information": "Discover the world's most visited art museum and see why this vast collection spanning the Ancient Egyptian to the Neoclassical attracts so many visitors each year. No other museum sums up humankind's artistic endeavor more."
     },
     {
         "id":6,
