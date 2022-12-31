@@ -82,5 +82,47 @@ myTours = [
         "caption": "Warsaw Landmarks",
         "duration":"1 day",
         "information": "Discover the most interesting elements of the Old Town during 1 day trip of highlights  Feel the atmosphere of this vibrant and bustling capital city of the new central Europe!"
-    }
+    },
+    {
+        "id":13,
+        "image":"img/prague_castle.jpg",
+        "caption": "Prague Castle",
+        "duration":"1 day",
+        "information": "Prague Castle has been an important symbol of the Czech state for more than a thousand years. It covers an area of 45 hectares. The panoramic view of Prague Castle is one of the most spectacular in the world."
+    },
+    {
+        "id":14,
+        "image":"img/prague_hall.jpg",
+        "caption": "Prague: Old Town Hall & Astronomical Clock",
+        "duration":"1 day",
+        "information": "See Prague's oldest town hall. Visit the Gothic chapel and the historical state rooms, get a peek at the inner mechanism of the astronomical clock, and descend into the extensive underground space."
+    },
+    {
+        "id":15,
+        "image":"img/vienna.jpg",
+        "caption": "Things to do in Vienna",
+        "duration":"1 day",
+        "information": "Vienna is a beautiful city that is full of culture, history, and stunning architecture. Its stunning baroque architecture and imperial palaces make it a fascinating city to explore."
+    },
+    {
+        "id":16,
+        "image":"img/madrid.jpg",
+        "caption": "Things to do in Madrid",
+        "duration":"1 day",
+        "information": "Madrid, Spain is the perfect destination for anyone looking for the perfect mix of culture, history, cuisine, and nightlife. The capital of Spain has something to offer everyone, from its stunning architecture, art galleries, and vibrant nightlife to its lively street markets and traditional tapas bars."
+    },
+    {
+         "id":17,
+        "image":"img/dresden.jpg",
+        "caption": "Dresden Tour",
+        "duration":"1 day",
+        "information": "With classic architecture and towering castles, Germany’s eastern capital is full of historical gems."
+    },
+    {
+        "id":18,
+       "image":"img/budapest.jpg",
+       "caption": "Budapest Tour",
+       "duration":"1 day",
+       "information": "Coveted by both the East and the West, Budapest's blend of culture, art, and architecture will leave you charmed."
+   }
 ]
