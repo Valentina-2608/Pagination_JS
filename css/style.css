@@ -137,6 +137,11 @@ li:hover{
    cursor:pointer;
 }
 
+.active_item{
+   background-color: darkred;
+   color:white;
+}
+
 /* footer */
 
 footer{
